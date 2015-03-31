@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E6C82974-46AD-4948-B726-F0422BA3DD3B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>vox</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F1473C96CF3CF337ED3F44427781D269C97D1647</key>
+		<string>https://github.com/cgyulay/vox.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>vox.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F1473C96CF3CF337ED3F44427781D269C97D1647</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/cgyulay/vox.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F1473C96CF3CF337ED3F44427781D269C97D1647</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F1473C96CF3CF337ED3F44427781D269C97D1647</string>
+			<key>IDESourceControlWCCName</key>
+			<string>vox</string>
+		</dict>
+	</array>
+</dict>
+</plist>

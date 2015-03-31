@@ -1,1 +1,2 @@
-source https://github.com/cgyulay/vox.git
+pod 'PureLayout'
+pod 'pop'
